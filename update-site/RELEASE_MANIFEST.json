@@ -1,0 +1,32 @@
+{
+    "schema_version":  1,
+    "product":  {
+                    "name":  "CargoShorts",
+                    "version":  "7.0.9",
+                    "bundle_id":  "com.cargoshorts.knime",
+                    "feature_id":  "com.cargoshorts.knime.feature",
+                    "bundle_version":  "1.0.0.v20260827221709",
+                    "bundle_vendor":  "fromdablockjenny9@proton.me"
+                },
+    "signing":  {
+                    "certificate_sha256":  "E1:5F:E2:CD:9B:F7:0D:A6:5F:C8:C7:B4:9B:1F:24:EB:66:91:FA:7A:9F:73:B1:E3:3F:89:67:F7:8E:8D:97:4E"
+                },
+    "artifacts":  {
+                      "plugin":  {
+                                     "path":  "plugins/com.cargoshorts.knime_1.0.0.v20260827221709.jar",
+                                     "sha256":  "ae2e45b4706ba5e8f50773dc6c6ea53d113c59c861e2ad2331ff5f3ccc6ccccc"
+                                 },
+                      "feature":  {
+                                      "path":  "features/com.cargoshorts.knime.feature_1.0.0.v20260827221709.jar",
+                                      "sha256":  "1514a54f383b74e99cd008b7c843b3f96ba1efc00b47eba73561368edebdceb1"
+                                  },
+                      "metadata":  {
+                                       "path":  "content.jar",
+                                       "sha256":  "b8b89546f4f0d49657ed8467fa1137826643f68135c9c43d65ad12688c02d495"
+                                   },
+                      "artifact_repository":  {
+                                                  "path":  "artifacts.jar",
+                                                  "sha256":  "e17981617e8555a5b205052a0669f055539954900ba4870f3f819d4a4d0da574"
+                                              }
+                  }
+}
