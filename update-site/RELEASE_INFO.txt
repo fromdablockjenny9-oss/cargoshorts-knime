@@ -1,9 +1,0 @@
-CargoShorts KNIME Update Site
-Bundle: com.cargoshorts.knime
-Feature: com.cargoshorts.knime.feature
-Version: 1.0.0.v20260830183730
-Support: fromdablockjenny9@proton.me
-Code-signing certificate SHA-256: E1:5F:E2:CD:9B:F7:0D:A6:5F:C8:C7:B4:9B:1F:24:EB:66:91:FA:7A:9F:73:B1:E3:3F:89:67:F7:8E:8D:97:4E
-Build hardening: runtime signer integrity + conservative ProGuard obfuscation
-Java execution environment: JavaSE-21
-Feature dependency: org.knime.core >= 5.9.0
